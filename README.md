@@ -4,4 +4,4 @@
 
 [![ Estatísticas do github do Anurag ](https://github-readme-stats.vercel.app/api?username=estevaopp&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaopp&layout=compact)](https://github.com/estevaopp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaopp&layout=compact&theme=radical)](https://github.com/estevaopp/github-readme-stats)
